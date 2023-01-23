@@ -28,7 +28,7 @@ The [`input`](input) directory contains the input data for each problem.
 | [19](https://adventofcode.com/2022/day/19) | [input](input/day19input.txt) | -- | -- | [Link](https://nbviewer.org/github/mattpitkin/AdventOfCode/blob/main/2022/AdventOfCode2022.ipynb#Day-19) |
 | [20](https://adventofcode.com/2022/day/20) | [input](input/day20input.txt) | -- | -- | [Link](https://nbviewer.org/github/mattpitkin/AdventOfCode/blob/main/2022/AdventOfCode2022.ipynb#Day-20) |
 | [21](https://adventofcode.com/2022/day/21) | [input](input/day21input.txt) | -- | -- | [Link](https://nbviewer.org/github/mattpitkin/AdventOfCode/blob/main/2022/AdventOfCode2022.ipynb#Day-21) |
-| [22](https://adventofcode.com/2022/day/22) | [input](input/day22input.txt) | -- | -- | [Link](https://nbviewer.org/github/mattpitkin/AdventOfCode/blob/main/2022/AdventOfCode2022.ipynb#Day-22) |
+| [22](https://adventofcode.com/2022/day/22) | [input](input/day22input.txt) | Complete | -- | [Link](https://nbviewer.org/github/mattpitkin/AdventOfCode/blob/main/2022/AdventOfCode2022.ipynb#Day-22) |
 | [23](https://adventofcode.com/2022/day/23) | [input](input/day23input.txt) | Complete | Complete | [Link](https://nbviewer.org/github/mattpitkin/AdventOfCode/blob/main/2022/AdventOfCode2022.ipynb#Day-23) |
 | [24](https://adventofcode.com/2022/day/24) | [input](input/day24input.txt) | -- | -- | [Link](https://nbviewer.org/github/mattpitkin/AdventOfCode/blob/main/2022/AdventOfCode2022.ipynb#Day-24) |
 | [25](https://adventofcode.com/2022/day/25) | [input](input/day25input.txt) | -- | -- | [Link](https://nbviewer.org/github/mattpitkin/AdventOfCode/blob/main/2022/AdventOfCode2022.ipynb#Day-25) |
